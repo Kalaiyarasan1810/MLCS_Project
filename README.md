@@ -2,8 +2,6 @@
 
 Predicting which subscription customers are likely to cancel (churn) using a **Random Forest** classifier, so a business can act *before* the customer leaves.
 
-**Author:** [Your Name] &nbsp;|&nbsp; **Unique ID:** [Your Unique ID]
-
 ---
 
 ## Table of Contents
